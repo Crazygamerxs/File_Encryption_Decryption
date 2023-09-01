@@ -1,6 +1,7 @@
-# File_Encryption_Decryption
+![image](https://github.com/Crazygamerxs/File_Encryption_Decryption/assets/97239999/b897c18b-549e-496c-b141-d31f463882b6)
 
-Certainly! Here's a README file for the provided Python code:
+
+
 
 # File Management and Encryption Command-Line Tool
 
