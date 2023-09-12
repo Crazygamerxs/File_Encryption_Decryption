@@ -150,7 +150,6 @@ class User:
         self.username = username
         self.password_hash = password_hash
 
-
 # Function to create a new user
 def create_user(users_db):
     username = input("Enter a username: ")
